@@ -1,0 +1,1 @@
+SELECT report_id, regulation_type, submission_date FROM compliance.reports WHERE year = 2024;

@@ -1,0 +1,1 @@
+SELECT department, revenue, profit FROM finance.kpis WHERE report_month = '2024-12';

@@ -1,0 +1,4 @@
+lead_id,lead_source,lead_status,created_date,converted_date
+101,LinkedIn,Converted,2023-01-10,2023-01-25
+102,Google Ads,Open,2023-02-14,
+103,Webinar,Converted,2023-03-01,2023-03-20

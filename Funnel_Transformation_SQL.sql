@@ -1,0 +1,1 @@
+SELECT lead_id, stage, stage_entered_date FROM crm.sales_pipeline;
